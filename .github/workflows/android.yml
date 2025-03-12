@@ -1,6 +1,8 @@
-name: Android CI
+name:joellopez/jl9302201 Android CI
 
-on:
+o
+
+n:
   - pull_request
   - push
 
